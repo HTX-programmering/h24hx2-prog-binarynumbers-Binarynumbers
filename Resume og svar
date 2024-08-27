@@ -1,0 +1,43 @@
+Forklaring på tekst
+
+I teksten starter det ud med at forklare om, hvordan tal kan defineres. Tal er rigtig meget kan vi få meget ud af men det fylder bare rigtig meget!
+Der bliver forklaret at vi har modsætningen til digital som er analog, det var et rigtig godt eksempel med regnbuen, hvor der blev forklaret den såkaldte "glidende overgang".
+Man kan få mange tal ud af det, ligesom med nul og ettaller.
+
+Så bliver der også forklaret om de forskellige systemer som titalsystemet og to tals systemet som er den såkaldte binære kode vi kender, 
+hvor titalsystemet er det system vi kender til i vores matematik, og så er der to tals systemet som er kun 0 og 1.
+
+Totalsystemet går nogenlunde således: 1, 2, 4, 8, 16, 32, 64, 128, 256...
+
+Totalsystemet bliver fordoblet for hver gang man går en potens op eller når der bliver tilført et ekstra cifre hver gang.
+
+Så er der bytes og bits hvor en byte er otte bits. Den maksimale værdi er 256 på grund af hvis man ikke tager 0 med så er det 255 men 0 er også en værdi.
+Derfor kan man med en byte få 256 forskellige farver fordi det er den maksimale værdi for en byte. Men det er gammeldags fordi vi har millioner af farver nu.
+
+Paritet foregår ved at hvis den længste bit til højre er sat, så vil talet altid være ulige.
+
+Hvis en byte er signed vil det sige at den byte kan gå i minus, så efter 127 så bliver det til -128
+
+Opgave: 
+
+For at løse denne opgave tager jeg infomationen fra totalsystemet altså 0 og 1 taller. Så hvis hyrden skulle komme kl. 3 så skulle kvinden putte lys i vindue number 1 og 2, 
+hvis det var kl. 5 så skulle hun putte lys i vindue number 1 og 3, og kl. 10 så ville det være vindue number 2 og 4. 
+
+På grund af hvordan det binære system fungerer så er svarene på opgaven korrekte, fordi vindue 1 og 2 som i binær giver 1 og 2 giver til sammen kl 3. 
+
+Kl 5 ville det i binær være 1 og 4 altså vindue 1 og 3. og Kl 10 ville det i binær være 2 og 8 eller vindue 2 og 4
+
+Jeg skrev Totalsystemet/Binærsystemet op i forklaring så det var lettere at gennemføre opgaven.
+
+
+
+
+
+
+
+
+
+
+
+
+
